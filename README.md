@@ -4,16 +4,15 @@
     If you have Matlab, simply start the main.mlapp file.
     
 
-# Upload File:
-    Press 'Load File' Button and select a .avi file
+# Upload Video:
+    Press 'Load File' Button and select an .avi file.
     The program will analyse the post deflection on a vertical line.
     The 'Rotate Button' can be used to roated the video in the desired manner.  
 # Analyse video:
     The 'frame slider' can be used to inspect the video frame wise. This does not have any influence on the analysis.
     
     Using the 'Select axis to analyse' slider, the optimal section for analysis can be selected. The program does detect borders
-    with a strong contrast. The gradient of the histogram can be seen on the left side. Choose the analysis section in a way that
-    the gradient shows a strong gaussian shaped peak!
+    with a strong contrast. The gradient of the histogram can be seen on the left side.
     
     The video is analysed frame by frame. You can set a start and end offset in case some frames should be discarded.
     
