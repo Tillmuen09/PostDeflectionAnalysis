@@ -2,11 +2,13 @@
 
 # Install
     If you have Matlab, simply start the main.mlapp file.
-#Upload File:
+    
+
+# Upload File:
     Press 'Load File' Button and select a .avi file
     The program will analyse the post deflection on a vertical line.
     The 'Rotate Button' can be used to roated the video in the desired manner.  
-#Analyse video:
+# Analyse video:
     The 'frame slider' can be used to inspect the video frame wise. This does not have any influence on the analysis.
     
     Using the 'Select axis to analyse' slider, the optimal section for analysis can be selected. The program does detect borders
