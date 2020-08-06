@@ -1,7 +1,7 @@
 # PostDeflectionAnalysis
 
 # Install
-    If you have Matlab, simply start the main.mlapp file.
+    If you have Matlab, simply start the latest main file.
     
 
 # Upload Video:
